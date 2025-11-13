@@ -2,7 +2,8 @@
 title: "Überzeugungen von Lehrkräften"
 subtitle: "und deren Messbarkeit"
 author: "Samuel Merk"
-footer: Samuel Merk
+footer: |
+  Folien {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} unter https://ogy.de/merk-25-071 {{< fa external-link-square-alt >}}
 institute: Institut für Empirische Bildungsforschung
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
@@ -48,9 +49,6 @@ border: none !important;
 </style>
 ```
 
-::: footer
-Folien cc-by {{< fa brands creative-commons-by >}} unter https://bit.ly/merk123 [{{< fa external-link-square-alt >}}]{.imp}
-:::
 
 
 ## Was sind Überzeugungen {{< fa question-circle >}} {.center .smaller}
@@ -75,10 +73,6 @@ Affekt:
 * “an embodied reaction of pleasure or displeasure signifying the goodness or badness of something” (Clore & Palmer, 2009, p. 21)
 * Affect Influences Beliefs: In one study, participants were induced into a happy or sad mood and then asked to watch videotapes of their past social interactions
 * Beliefs Influence Affect: Reaktion auf Lernstilmythos
-:::
-
-::: footer
-Folien cc-by {{< fa brands creative-commons-by >}} unter https://bit.ly/merk123 [{{< fa external-link-square-alt >}}]{.imp}
 :::
 
 
@@ -111,17 +105,17 @@ Folien cc-by {{< fa brands creative-commons-by >}} unter https://bit.ly/merk123 
 :::: {.columns}
 
 ::: {.column width='50%'}
-![](img/Baumert2006.png){}
+![](img/Baumert2006.svg){}
 :::
 
 ::: {.column width='50%'}
-![](img/Filtering_Framing_Guiding.png){}
+![](img/Filtering_Framing_Guiding.svg){}
 :::
 
 ::::
 
 
-## Entwicklungsfelder {{< fa person-digging >}} {.center background-color="black"}
+## Entwicklungsfelder {{< fa person-digging >}} {.center}
 
 ## Entwicklungsfelder {{< fa person-digging >}} {.center .smaller}
 ::: {.incremental}
