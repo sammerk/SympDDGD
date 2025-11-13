@@ -1,0 +1,155 @@
+---
+title: "Überzeugungen von Lehrkräften"
+subtitle: "und deren Messbarkeit"
+author: "Samuel Merk"
+footer: Samuel Merk
+institute: Institut für Empirische Bildungsforschung
+logo: img/ph-logo.svg
+picture: img/KA.jpeg
+lang: de
+date-format: long
+format: rlille-revealjs
+filters:
+   - lightbox
+lightbox: auto
+self-contained: true
+bibliography: references.bib
+csl: apa.csl
+---
+
+## Leitfragen {.center}
+
+
+|     {{< fa question-circle >}} | Was sind Überzeugungen?         |
+|-------------------------------------:|:----------------------------|
+| {{< fa chalkboard-user >}} | Überzeugungen vs Professionalität |
+| {{< fa person-digging >}} | Entwicklungsfelder der Überzeugungsforschung       |
+
+: {#tbl-agenda tbl-colwidths="\[15,285\]"}
+
+<!--| {{< iconify fa6-solid:heart-pulse >}} | Leseprozess erleben |-->
+
+```{=html}
+<!-- style the agenda table -->
+
+<style>
+#tbl-agenda table th {
+font-weight: normal !important;
+border: none !important;
+}
+
+#tbl-agenda table td {
+font-weight: normal !important;
+border: none !important;
+}
+
+#tbl-agenda .quarto-float-caption {
+  display: none !important; 
+</style>
+```
+
+::: footer
+Folien cc-by {{< fa brands creative-commons-by >}} unter https://bit.ly/merk123 [{{< fa external-link-square-alt >}}]{.imp}
+:::
+
+
+## Was sind Überzeugungen {{< fa question-circle >}} {.center .smaller}
+Die meisten aktuellen Überblickswerke [@fives2012; @skott2015; @wilde2016] definieren Überzeugungen anhand von Merkmalsbündeln:
+
+::: {.incremental}
+* Überzeugungen sind individuelle Wahrheitspropositionen [@skott2015]
+* Überzeugungen sind kognitiv repräsentiert aber *»inextricably linked«* mit affektiven Komponenten [@gill2015]
+* Überzeugungen sind vergleichsweise zeit- und kontextinvariant [@gates2006]
+* Überzeugungen sind über eine Filter-, Rahmungs- und Steuerungsfunktion handlungsrelevant [@fives2012]
+:::
+
+. . .
+
+![](img/Filtering_Framing_Guiding.svg){width=30%}
+
+::: {.notes}
+Wahrheitspropositionen:
+* «Am vorgerechneten Beispiel lernen die Schüler/innen am besten.»
+* Scientist can ultimately get to the truth
+Affekt:
+* “an embodied reaction of pleasure or displeasure signifying the goodness or badness of something” (Clore & Palmer, 2009, p. 21)
+* Affect Influences Beliefs: In one study, participants were induced into a happy or sad mood and then asked to watch videotapes of their past social interactions
+* Beliefs Influence Affect: Reaktion auf Lernstilmythos
+:::
+
+::: footer
+Folien cc-by {{< fa brands creative-commons-by >}} unter https://bit.ly/merk123 [{{< fa external-link-square-alt >}}]{.imp}
+:::
+
+
+## Weitere Charakteristika {.smaller}
+::: {.incremental}
+* Überzeugungen stellen *latente* Konstrukte dar, da aus der Datenstruktur nur mit vglw. großer Unsicherheit auf die Merkmalsstruktur geschlossen werden kann [@borsboom2008]
+* Typische Erfassungen stellen reflektive Maße dar <br> 
+<center>![](img/Formatives_Reflektives_MM.svg){width=20%}</center>
+* Überzeugungen lassen sich wie folgt zu verwandten Konstrukten abgrenzen: <br>
+:::
+
+. . .
+
+:::{style="font-size: .6em;"}
+
+| Konstruktklasse         | Proposition bzgl. …                                         | Spektrum                                                          |
+|-------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|
+| Beliefs/Überzeugungen   | … Wahrheit                                                  | Dichotom oder kontinuierlich von wahr bis falsch                  |
+| Attitudes/Einstellungen | … Bewertungen operationalisierbarer Entitäten               | Kontinuierlich bipolar von negativ über neutral bis positiv       |
+| Goals/Ziele             | … erreichbarer Zustände und erreichbarem Verhalten          | Kontinuierlich unipolar von nicht wünschenswert bis wünschenswert |
+| Values/Werte            | … abstrakter, transsituationaler, nicht erreichbarer Ideale | Ranking relativer Bedeutsamkeit                                   |
+
+: {tbl-colwidths="[15,28,40]"}
+:::
+
+
+## [Überzeugungen ⇄ Professionalität?]{style="font-size: .9em;"} {.center .smaller}
+
+## Im kompetenztheoretischen Ansatz {.center}
+:::: {.columns}
+
+::: {.column width='50%'}
+![](img/Baumert2006.png){}
+:::
+
+::: {.column width='50%'}
+![](img/Filtering_Framing_Guiding.png){}
+:::
+
+::::
+
+
+## Entwicklungsfelder {{< fa person-digging >}} {.center background-color="black"}
+
+## Entwicklungsfelder {{< fa person-digging >}} {.center .smaller}
+::: {.incremental}
+* Konstrukte möglichst klar abgrenzen [@pajares1992]
+* Measurements validieren und wiederverwenden [@elson2023]
+* Causal Inference [@rohrer2018] stärken
+    * Experimentelle Designs [@rosenthal1968a; @schmidt2022a]
+    * Do-Calculus [@pearl2016]
+    * Post-Treatment Bias vermeiden [@montgomery2018]
+:::
+
+. . .
+
+:::: {.columns}
+
+::: {.column width='50%'}
+![](img/Confounding.svg){}
+:::
+
+::: {.column width='50%'}
+<br><br>
+![](img/PosttreatmentBias.svg){}
+:::
+
+::::
+
+
+## Literatur {.smaller}
+<style>
+div.callout {border-left-color: #267326 !important;
+</style>
